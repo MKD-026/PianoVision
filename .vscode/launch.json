@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mrinmoy/Documents/github/PianoVision",
+      "program": "/Users/mrinmoy/Documents/github/PianoVision/build/Debug/outDebug"
+    }
+  ]
+}
